@@ -3,7 +3,7 @@
 
 This repository contains Faroese OCR parallel data.
 
-588 lines from the newspaper "Dúgvan" from 1941.
+588 lines from the Good Templars newspaper "Dúgvan" from 1941.
 
 213 lines wfrom the poetry paper "Várskot" from 1904.
 
