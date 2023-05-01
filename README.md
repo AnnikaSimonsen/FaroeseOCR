@@ -9,4 +9,4 @@ This repository contains Faroese OCR parallel data.
 
 The texts have been OCR scanned from Timarit.is, using ABBYY Finereader, and proofread by a native speaker of Faroese.
 
-There is also a list of OCR errors that have been collected from real OCRed Faroese text.
+There is also a list of OCR errors that have been collected from real OCRed Faroese text along with frequency.
